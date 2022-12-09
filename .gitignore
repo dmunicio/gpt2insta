@@ -1,7 +1,7 @@
 #other
 .env
-*.jpg
-*.png
+output.jpg
+output.png
 .DS_Store
 
 # Byte-compiled / optimized / DLL files

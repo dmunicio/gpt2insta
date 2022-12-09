@@ -18,6 +18,9 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
+Register in [apitemplate.io](https://apitemplate.io/) and create a template like this:
+![Image showing a template in https://apitemplate.io/](doc_images/apitemplate.io.png)
+
 Edit .env file and fill in the values.
 
 ## Usage
@@ -26,7 +29,10 @@ Edit .env file and fill in the values.
 ./gpt2insta.py -topic Happiness
 
 ```
-Enter the code sent by instagram to your email or sms
+Enter the code sent by instagram to your email or sms.
+
+You will get a nice story in your instagram account, like this:
+![Instagram story with the generated image](doc_images/instagram.png)
 
 ## Next steps
 
