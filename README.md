@@ -44,13 +44,13 @@ Some ideas:
 ## Libraries and services
 
 These are the libraries I have used. Thanks to the creators!
-[instagrapi](https://github.com/adw0rd/instagrapi)
-[pychatgpt](https://github.com/rawandahmad698/PyChatGPT)
+* [instagrapi](https://github.com/adw0rd/instagrapi)
+* [pychatgpt](https://github.com/rawandahmad698/PyChatGPT)
 
 And the services used:
-https://replicate.com/blog/run-stable-diffusion-with-an-api
-https://stablediffusionweb.com/
-https://apitemplate.io/
+* https://replicate.com/blog/run-stable-diffusion-with-an-api
+* https://stablediffusionweb.com/
+* https://apitemplate.io/
 
 ## Disclaimer
 This code is only intended as a PoC of interconnecting several AI services.
