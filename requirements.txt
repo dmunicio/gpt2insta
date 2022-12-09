@@ -1,0 +1,3 @@
+chatgptpy==1.0.5
+replicate==0.4.0
+instagrapi==1.16.30
