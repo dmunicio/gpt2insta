@@ -48,7 +48,8 @@ https://apitemplate.io/
 
 ## Disclaimer
 This code is only intended as a PoC of interconnecting several AI services.
-Instagram discourages bot usage.
+Instagram discourages bot usage and your account can be suspended if you are trying to do massive operations programmatically. Use it at your own risk.
+Also ChatGPT have not yet released a public API, so a non-official API library is used.
 
 ## Contributing
 
